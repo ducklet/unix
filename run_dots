@@ -1,0 +1,5 @@
+if [ -f ~/dotfiles/bashrc ]; then
+	. ~/dotfiles/aliases
+	. ~/dotfiles/path
+	. ~/dotfiles/env
+fi;		

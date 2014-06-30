@@ -1,0 +1,8 @@
+[user]
+	name = Katrina Zell
+	email = zell@ncbi.nlm.nih.gov
+[core]
+	autocrlf = input
+	safecrlf = true
+[push]
+	default = simple

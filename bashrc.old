@@ -1,0 +1,5 @@
+#bashrc - run my dotfiles bashrc instead
+if [ -f ~/dotfiles/bashrc ]; then
+	~/dotfiles/run_dots
+fi;
+
