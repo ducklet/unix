@@ -1,0 +1,1 @@
+<html><body>You are being <a href="https://raw.githubusercontent.com/edwelker/nix_conf/master/git/git-prompt.sh">redirected</a>.</body></html>
