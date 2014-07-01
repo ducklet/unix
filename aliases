@@ -1,0 +1,10 @@
+alias c=clear #clears the screen
+alias g=git #begins git command
+alias ..='cd ..' #changing to one directory higher
+alias ...='cd ../..' #2 dir 
+alias ....='cd ../../..' #3 dir 
+alias .....='cd ../../../..' #4 dir
+alias lal='ls -al | less' #shows files in the current directory
+alias py='python 
+alias py3='python3'
+ 
