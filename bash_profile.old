@@ -1,0 +1,4 @@
+#bash_profile - run my bashrc instead.
+ if [ -f ~/.bashrc ]; then
+     . ~/.bashrc
+ fi;
